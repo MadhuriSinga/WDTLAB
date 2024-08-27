@@ -1,0 +1,68 @@
+<! Form page>
+<html>
+<head>
+<title>Student Bio-Data Form</title>
+</head>
+<body bgcolor="lightblue">
+<table bgcolor="white"> 
+<tr> 
+<td width="10%" align="center"><img src="https://www.srit.ac.in/wp-content/uploads/2021/12/SRIT-LOGO.jpeg" alt="Image not inserted" width="150" height="12%"></td> 
+<td align="center" width="80%" cellpadding="0"> 
+<h1 align="center">SRINIVASA RAMANUJAN INSTITUTE OF TECHNOLOGY</h1>
+<p><h3>AUTONOMOUS</h3></p>
+<b>Rotarypuram Village, BK Samudram Mandal, Ananthapuramu - 515701<br>
+<b><u>Accredited by <font color="orange">NBA</font> & <font color="orange"> NAAC  </font> with <font color="orange"> "A" </font> Grade, Affiliated to <font color="orange"> JNTU </font>, Ananthapuramu</u></b>
+</table><br>
+<form>
+<table bgcolor="lightgrey" align="center">
+<tr>
+<th colspan="2"> <h1>STUDENT BIO-DATA FORM</h1> 
+<tr>
+<th><label>Name:</label><br><br>
+<td><input type="text" name="name"  value="Your Name"><br><br>
+<tr>
+<th><label> Address:</label> <br><br>
+<td><textarea rows="8" cols="50"></textarea><br><br>
+<tr>
+<th><label>Gender:</label><br><br>
+<td><input type="radio" name="gender" >Male 
+<input type="radio" name="gender">Female<br><br>
+<tr>
+<th> <label>DOB:</label><br><br>
+<td> <input type="date" name="DOB" ><br><br>
+<tr>
+<th><label>Email:</label><br><br>
+<td> <input type="email" email="Email" ><br><br>
+<tr>
+<th><label>Skill Set:</label><br><br>
+<td> <input type="checkbox" name="Skill Set">.Net
+<input type="checkbox" name="Skill Set" >C++
+<input type="checkbox" name="Skill Set">Java
+<input type="checkbox" name="Skill Set">C#
+<input type="checkbox" name="Skill Set">HTML
+<input type="checkbox" name="Skill Set">Python<br><br>
+<tr>
+<th><label>Extra-Curicular Activities:</label><br><br>
+<td> <input type="text"><br><br>
+<tr>
+<th><label>Nationality:</label><br><br>
+<td> <select>
+<option>India</option>
+<option>Indonasia</option>
+<option>America</option>
+<option>China</option>
+<option>Japan</option>
+</select><br><br>
+<tr>
+<th><label>Upload Resume:</label><br><br>
+<td> <input type="file"><br><br>
+<tr>
+<th colspan="2"><input type="Submit" name="Submit" value="Submit">
+<input type="Reset" name="Reset" value="Reset">
+</table>
+</form>
+<div id="footer"> 
+<p align='center'>&copy; S.Madhuri all rights -- reserved </p> 
+</div>
+</body>
+</html>
