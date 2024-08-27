@@ -1,0 +1,42 @@
+<! 1st year page>
+<html>
+<head>
+<title>I Year</title>
+</head>
+<table> 
+<tr> 
+<td width="10%" align="center"><img src="URL" alt="Image not inserted" width="150" height="12%"></td> 
+<td align="center" width="80%" cellpadding="0"> 
+<h1 align="center">SRINIVASA RAMANUJAN INSTITUTE OF TECHNOLOGY</h1>
+<p><h3>AUTONOMOUS</h3></p>
+<b>Rotarypuram Village, BK Samudram Mandal, Ananthapuramu - 515701<b><br>
+<b><u>Accredited by NBA &  NAAC with "A"  Grade, Affiliated to JNTU </font>, Ananthapuramu</u></b>
+</table><br>
+<hr>
+<h2 align="center">Computer Science and Engineering</h2>
+<table align="center" border="3">
+<caption><b>List of I Year Courses</b></caption>
+<tr>
+<th>I Semister <th>II Semister</tr>
+<td><ol>
+<li>Linear Algebra and Calculus
+<li>Applied Physics
+<li>Communicative English-I
+<li>Problem Solving and Programming
+<li>Engineering Graphics
+<li>Communicative English-I Lab
+<li>Applied Physics Lab
+<li>Problem Solving and Programming Lab
+</ol></td>
+<td><ol>
+<li>Transforms and Partial Differential Equations
+<li>Applied Chemistry
+<li>Basic Electrical and Electronics Engineering
+<li>Data Structures
+<li>Engineering Workshop Practice
+<li>Basic Electrical and Electronics Engineering Lab
+<li>Applied Chemistry Lab
+<li>Data Structures Lab
+</ol>
+</body>
+</html>

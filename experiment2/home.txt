@@ -1,0 +1,37 @@
+<! Home page>
+<html>
+<head>
+<title>Home Page</title>
+</head>
+<body>
+<table> 
+<tr> 
+<td width="10%" align="center"><img src="URL" alt="Image not inserted" width="150" height="12%"></td> 
+<td align="center" width="80%" cellpadding="0"> 
+<h1 align="center">SRINIVASA RAMANUJAN INSTITUTE OF TECHNOLOGY</h1>
+<p><h3>AUTONOMOUS</h3></p>
+<b>Rotarypuram Village, BK Samudram Mandal, Ananthapuramu - 515701<b><br>
+<b><u>Accredited by NBA &  NAAC  with  "A"  Grade, Affiliated to JNTU , Ananthapuramu</u></b>
+</table><br>
+<dl>
+<dt><h3>VISION</h3>
+<dd type="disc"><li>To become a premier Educational Institution in India offering the best teaching and learning environment for our students that will enable them become complete individuals with professional competency, human touch, ethical values,service mottto, and a strong sense of responsibility towards environment and society at large.
+</dl>
+<dl>
+<dt><h3>MISSION</h3>
+<dd><ul type="square"><li>Continually enhance the quality of physical infrastructure and human resources to evolve in to a centre of excellence in engineering education.
+<li>Provide comprehensive learning experiences that are conducive for the students to aquare professional competences, ethical values, life-long learning abilities and understanding of the technology, environment and society.
+<li>Strengthen industry institute interactions to enable the students work on realistic problem and aquare the ability to face the ever changing requirements of the industry.
+<li>Continually enhance the quality of the relationship between students and faculty which is a key to the development of an exciting and rewarding learning environment in the college.
+</ul></dl>
+<dl>
+<dt><h3>DEPARTMENTS</h3>
+<ul type="circle">
+<li><a href="C:\Users\Madhuri\Documents\HTML\cse.html" target="_blank">CSE</a>
+<li><a href="URL" target="_blank">ECE</a>
+<li><a href="URL" target="_blank">EEE</a>
+<li><a href="URL" target="_blank">CIVIL</a>
+<li><a href="URL" target="_blank">MECH</a>
+</ul></dl>
+</body>
+</html>
